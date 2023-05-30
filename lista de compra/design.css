@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+   
+    }
+  body,html{
+    height: 50%;
+    margin: 0;
+  }
+  .bg{
+    background-image: url(' https://img.freepik.com/vetores-premium/computador-de-papel-de-parede-de-modelo-de-plano-de-fundo-limpo_24725-10.jpg?w=2000 ');
+    background-repeat: no-repet;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+   
+  #div2 {
+      background-color: black;
+  }
+  div {
+      width: 170px;
+      height: 30px;
+       display: inline-block;
+  }
+  #div1 {
+      background-color: black;  
+  }
+  #div2 {
+      background-color: black;
+  }
